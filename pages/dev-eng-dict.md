@@ -4,6 +4,7 @@
 
  공룡책(Operating System Concepts) 원문을 읽으면서 나오는 모르는 단어들을 정리할 markdown page입니다.
 
+- interleave: 메모리에 동시에 접근하는 것
 - invocation: 호출
 - invoke: 호출하다.
 - refer: 참조하다.
